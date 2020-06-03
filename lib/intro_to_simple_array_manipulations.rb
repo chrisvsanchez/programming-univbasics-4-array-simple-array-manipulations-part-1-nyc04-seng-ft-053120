@@ -4,11 +4,8 @@ end
 
 def using_unshift(array, string)
   array.unshift(string)
-  
 end
-def method_name
-  
-end
+
 def method_name
   
 end
@@ -16,6 +13,11 @@ end
 def method_name
   
 end
+
+def method_name
+  
+end
+
 def method_name
   
 end
